@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75f97728-c1a5-4103-9635-af8eb5572d69" name="Default" comment="" />
+    <ignored path="photobank.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="photobank" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="account.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/account.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="184" column="0" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/core/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="800">
+              <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/core/router.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/core/controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controller_account.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/controller_account.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/models/model_photobank.php" />
+        <option value="$PROJECT_DIR$/application/core/core.php" />
+        <option value="$PROJECT_DIR$/application/models/model_items.php" />
+        <option value="$PROJECT_DIR$/application/models/model_users.php" />
+        <option value="$PROJECT_DIR$/application/models/model_category.php" />
+        <option value="$PROJECT_DIR$/application/models/items_types.php" />
+        <option value="C:/Users/Anastasia/Downloads/sign-up-login-form/index.html" />
+        <option value="$PROJECT_DIR$/application/controllers/controller_photo.php" />
+        <option value="$PROJECT_DIR$/application/controllers/controller_vectors.php" />
+        <option value="$PROJECT_DIR$/application/models/model_keywords_to_item.php" />
+        <option value="$PROJECT_DIR$/application/models/model_items_keywords.php" />
+        <option value="$PROJECT_DIR$/application/core/router.php" />
+        <option value="$PROJECT_DIR$/application/core/view.php" />
+        <option value="$PROJECT_DIR$/application/core/template.php" />
+        <option value="$PROJECT_DIR$/application/core/model.php" />
+        <option value="$PROJECT_DIR$/js/items.js" />
+        <option value="$PROJECT_DIR$/application/models/model_account_types.php" />
+        <option value="$PROJECT_DIR$/application/controllers/controller_basket.php" />
+        <option value="$PROJECT_DIR$/application/controllers/controller_contacts.php" />
+        <option value="$PROJECT_DIR$/application/controllers/controller_login.php" />
+        <option value="$PROJECT_DIR$/application/controllers/controller_search.php" />
+        <option value="$PROJECT_DIR$/application/views/template_view.php" />
+        <option value="$PROJECT_DIR$/application/controllers/controller_item.php" />
+        <option value="$PROJECT_DIR$/application/views/item.php" />
+        <option value="$PROJECT_DIR$/application/bootstrap.php" />
+        <option value="$PROJECT_DIR$/application/controllers/controller_pay.php" />
+        <option value="$PROJECT_DIR$/application/controllers/controller_photobank.php" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/css/header_footer.css" />
+        <option value="$PROJECT_DIR$/application/views/main_page.php" />
+        <option value="$PROJECT_DIR$/application/views/photo.php" />
+        <option value="$PROJECT_DIR$/application/views/vectors.php" />
+        <option value="$PROJECT_DIR$/application/views/video.php" />
+        <option value="$PROJECT_DIR$/application/views/peyment.php" />
+        <option value="$PROJECT_DIR$/application/views/basket.php" />
+        <option value="$PROJECT_DIR$/application/controllers/controller_payment.php" />
+        <option value="$PROJECT_DIR$/application/views/login.php" />
+        <option value="$PROJECT_DIR$/application/views/index.php" />
+        <option value="$PROJECT_DIR$/application/core/controller.php" />
+        <option value="$PROJECT_DIR$/application/views/payment.php" />
+        <option value="$PROJECT_DIR$/application/controllers/controller_video.php" />
+        <option value="$PROJECT_DIR$/application/controllers/controller_new_item.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/application/views/new_item.php" />
+        <option value="$PROJECT_DIR$/css/items.css" />
+        <option value="$PROJECT_DIR$/phptobank.sql" />
+        <option value="$PROJECT_DIR$/js/login.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/application/views/account.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/application/controllers/controller_account.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CssInvalidPropertyValue</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photobank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photobank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photobank" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photobank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photobank" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photobank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photobank" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photobank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photobank" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photobank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photobank" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photobank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photobank" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="photobank">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="photobank">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="application">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="photobank">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="application">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="controllers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="card&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\photobank\application\controllers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.main_page.php">
+    <configuration default="false" name="template_view.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/application/views/template_view.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="core.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/application/core/core.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="main_page.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/application/views/main_page.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.template_view.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.core.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.main_page.php" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.main_page.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.core.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.index.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.template_view.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75f97728-c1a5-4103-9635-af8eb5572d69" name="Default" comment="" />
+      <created>1490429594159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490429594159</updated>
+      <workItem from="1490429595469" duration="7941000" />
+      <workItem from="1491233963938" duration="3637000" />
+      <workItem from="1491244285626" duration="11333000" />
+      <workItem from="1491797891152" duration="7165000" />
+      <workItem from="1492227838406" duration="12228000" />
+      <workItem from="1492834143268" duration="8039000" />
+      <workItem from="1492921464070" duration="4672000" />
+      <workItem from="1493006367781" duration="1191000" />
+      <workItem from="1493091733488" duration="17599000" />
+      <workItem from="1493201528555" duration="19946000" />
+      <workItem from="1493261706041" duration="19907000" />
+      <workItem from="1493349278094" duration="7419000" />
+      <workItem from="1493435995632" duration="10154000" />
+      <workItem from="1493527207023" duration="5709000" />
+      <workItem from="1493611932756" duration="6967000" />
+      <workItem from="1493697378352" duration="22249000" />
+      <workItem from="1493878586228" duration="14948000" />
+      <workItem from="1493962711110" duration="6257000" />
+      <workItem from="1494129596025" duration="5394000" />
+      <workItem from="1494225797711" duration="7375000" />
+      <workItem from="1494314774475" duration="12646000" />
+      <workItem from="1494573897785" duration="1681000" />
+      <workItem from="1494485912405" duration="13993000" />
+      <workItem from="1494589643438" duration="678000" />
+      <workItem from="1494647588196" duration="18186000" />
+      <workItem from="1494737625530" duration="623000" />
+      <workItem from="1494830734720" duration="3722000" />
+      <workItem from="1494907816287" duration="19216000" />
+      <workItem from="1494992789498" duration="4135000" />
+      <workItem from="1495009188278" duration="880000" />
+      <workItem from="1495101328547" duration="10345000" />
+      <workItem from="1495178846577" duration="9629000" />
+      <workItem from="1495254017454" duration="4182000" />
+      <workItem from="1495429886743" duration="4938000" />
+      <workItem from="1495524562174" duration="918000" />
+      <workItem from="1495605584457" duration="5775000" />
+      <workItem from="1495690628411" duration="8805000" />
+      <workItem from="1495768443233" duration="695000" />
+      <workItem from="1495864773677" duration="11268000" />
+      <workItem from="1495948768073" duration="5001000" />
+      <workItem from="1496038641058" duration="8652000" />
+      <workItem from="1496123186125" duration="10505000" />
+      <workItem from="1496378603387" duration="1864000" />
+      <workItem from="1496214124695" duration="4553000" />
+      <workItem from="1496296004737" duration="2484000" />
+      <workItem from="1496380671824" duration="11429000" />
+      <workItem from="1496461735068" duration="3614000" />
+      <workItem from="1496647412635" duration="1803000" />
+      <workItem from="1496748719096" duration="795000" />
+      <workItem from="1497249179400" duration="4679000" />
+      <workItem from="1497890564346" duration="892000" />
+      <workItem from="1497957428553" duration="9188000" />
+      <workItem from="1498026586454" duration="5966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="403870000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.184375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0033594626" sideWeight="0.5041841" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.087346025" sideWeight="0.49815497" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0033594626" sideWeight="0.4958159" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/core/view.php" />
+    <entry file="file://$PROJECT_DIR$/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/application/views/contacts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/peyment.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/new_item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="74" column="76" selection-start-line="74" selection-start-column="76" selection-end-line="74" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/model_account_types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/model_photobank.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/model_keywords_to_item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/model_items_types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/model_items_keywords.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/model_items_categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/controller_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/controller_search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/controller_payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/controller_new_item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/main_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="61" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/vectors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="45" selection-start-line="0" selection-start-column="0" selection-end-line="77" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/video.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="57" selection-start-line="0" selection-start-column="0" selection-end-line="80" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="105" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/basket.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="45" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="47" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="77" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="125" column="30" selection-start-line="125" selection-start-column="30" selection-end-line="125" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header_footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="133" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/model_users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/controller_photobank.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="19" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/controller_item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2225">
+          <caret line="89" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="120" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phptobank.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/controller_basket.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Model">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Model</OriginalElement>
+          <nodes>
+            <node x="" y="">\Model</node>
+            <node x="" y="">\Router</node>
+            <node x="" y="">\Controller</node>
+            <node x="" y="">\Template</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="126.0" y="116.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Controller_Item">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Controller_Item</OriginalElement>
+          <nodes>
+            <node x="1460.0" y="-368.7073919719236">\Controller_Vectors</node>
+            <node x="2108.0" y="-368.7073919719236">\Controller_Photobank</node>
+            <node x="1300.2612368336343" y="-111.0104011669984">\Controller_Login</node>
+            <node x="1730.6832489514907" y="-102.19904229463458">\Controller_Basket</node>
+            <node x="1269.4125904803689" y="-367.2948014915552">\Controller_Item</node>
+            <node x="1883.0" y="-368.7073919719236">\Controller_Contacts</node>
+            <node x="2171.683248951491" y="-102.19904229463458">\Controller_Photo</node>
+            <node x="1062.9542662864665" y="-305.1195437595964">\Controller</node>
+            <node x="2375.683248951491" y="-102.19904229463458">\Controller_Video</node>
+            <node x="1937.6832489514907" y="-102.19904229463458">\Controller_New_Item</node>
+            <node x="1675.0" y="-368.7073919719236">\Controller_Search</node>
+            <node x="2351.0" y="-368.7073919719236">\Controller_Payment</node>
+            <node x="1509.6832489514907" y="-102.19904229463458">\Controller_Account</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\Controller_Search" target="\Controller">
+              <point x="0.0" y="-23.5" />
+              <point x="1769.0" y="-408.7073919719236" />
+              <point x="1157.1544472472033" y="-403.05703005044955" />
+              <point x="26.875" y="23.5" />
+            </edge>
+            <edge source="\Controller_Payment" target="\Controller">
+              <point x="0.0" y="-23.5" />
+              <point x="2453.5" y="-438.7073919719236" />
+              <point x="1189.4044472472033" y="-433.05703005044955" />
+              <point x="59.125" y="23.5" />
+            </edge>
+            <edge source="\Controller_Item" target="\Controller">
+              <point x="0.0" y="-23.5" />
+              <point x="1355.4125904803686" y="-383.0570300504497" />
+              <point x="1131.4166758060978" y="-380.23184908971274" />
+              <point x="5.375" y="23.5" />
+            </edge>
+            <edge source="\Controller_Login" target="\Controller">
+              <point x="0.0" y="-23.5" />
+              <point x="1390.2612368336343" y="-122.17132596627636" />
+              <point x="1125.6930640319242" y="-120.93357851288403" />
+              <point x="-5.375" y="23.5" />
+            </edge>
+            <edge source="\Controller_Contacts" target="\Controller">
+              <point x="0.0" y="-23.5" />
+              <point x="1985.5" y="-418.7073919719236" />
+              <point x="1167.9044472472033" y="-413.05703005044955" />
+              <point x="37.625" y="23.5" />
+            </edge>
+            <edge source="\Controller_Video" target="\Controller">
+              <point x="0.0" y="-23.5" />
+              <point x="2465.2706584711223" y="-137.8494042161086" />
+              <point x="1110.8801356177944" y="-131.47195385837136" />
+              <point x="-16.125" y="23.5" />
+            </edge>
+            <edge source="\Controller_New_Item" target="\Controller">
+              <point x="0.0" y="-23.5" />
+              <point x="2043.270658471122" y="-157.8494042161086" />
+              <point x="1089.3801356177944" y="-151.47195385837136" />
+              <point x="-37.625" y="23.5" />
+            </edge>
+            <edge source="\Controller_Photobank" target="\Controller">
+              <point x="0.0" y="-23.5" />
+              <point x="2219.5" y="-428.7073919719236" />
+              <point x="1178.6544472472033" y="-423.05703005044955" />
+              <point x="48.375" y="23.5" />
+            </edge>
+            <edge source="\Controller_Photo" target="\Controller">
+              <point x="0.0" y="-23.5" />
+              <point x="2262.2706584711223" y="-147.8494042161086" />
+              <point x="1100.1301356177944" y="-141.47195385837136" />
+              <point x="-26.875" y="23.5" />
+            </edge>
+            <edge source="\Controller_Vectors" target="\Controller">
+              <point x="0.0" y="-23.5" />
+              <point x="1557.5" y="-398.7073919719236" />
+              <point x="1146.4044472472033" y="-393.05703005044955" />
+              <point x="16.125" y="23.5" />
+            </edge>
+            <edge source="\Controller_Basket" target="\Controller">
+              <point x="0.0" y="-23.5" />
+              <point x="1822.770658471122" y="-167.8494042161086" />
+              <point x="1078.6301356177944" y="-161.47195385837136" />
+              <point x="-48.375" y="23.5" />
+            </edge>
+            <edge source="\Controller_Account" target="\Controller">
+              <point x="0.0" y="-23.5" />
+              <point x="1608.770658471122" y="-177.8494042161086" />
+              <point x="1067.8801356177944" y="-171.47195385837136" />
+              <point x="-59.125" y="23.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.007919254658385" x="1824.0" y="-98.0" />
+          <SelectedNodes>
+            <node>\Controller_Item</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Model_Items">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Model_Items</OriginalElement>
+          <nodes>
+            <node x="906.75" y="0.0">\Model</node>
+            <node x="216.0" y="117.0">\Model_Items_Types</node>
+            <node x="441.99999999999994" y="117.0">\Model_Items_Keywords</node>
+            <node x="699.0" y="117.0">\Model_Keywords_To_Item</node>
+            <node x="1659.0" y="117.0">\Model_Users</node>
+            <node x="1395.0" y="117.0">\Model_Items_Categories</node>
+            <node x="975.0" y="117.0">\Model_Account_Types</node>
+            <node x="1222.0" y="117.0">\Model_Items</node>
+            <node x="0.0" y="117.0">\Model_Photobank</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\Model_Account_Types" target="\Model">
+              <point x="0.0" y="-23.5" />
+              <point x="1088.5" y="97.0" />
+              <point x="964.125" y="97.0" />
+              <point x="6.375" y="23.5" />
+            </edge>
+            <edge source="\Model_Items_Types" target="\Model">
+              <point x="0.0" y="-23.5" />
+              <point x="319.0" y="77.0" />
+              <point x="925.875" y="77.0" />
+              <point x="-31.875" y="23.5" />
+            </edge>
+            <edge source="\Model_Photobank" target="\Model">
+              <point x="0.0" y="-23.5" />
+              <point x="98.0" y="67.0" />
+              <point x="913.125" y="67.0" />
+              <point x="-44.625" y="23.5" />
+            </edge>
+            <edge source="\Model_Keywords_To_Item" target="\Model">
+              <point x="0.0" y="-23.5" />
+              <point x="827.0" y="97.0" />
+              <point x="951.375" y="97.0" />
+              <point x="-6.375" y="23.5" />
+            </edge>
+            <edge source="\Model_Users" target="\Model">
+              <point x="0.0" y="-23.5" />
+              <point x="1735.0" y="67.0" />
+              <point x="1002.375" y="67.0" />
+              <point x="44.625" y="23.5" />
+            </edge>
+            <edge source="\Model_Items_Categories" target="\Model">
+              <point x="0.0" y="-23.5" />
+              <point x="1517.0" y="77.0" />
+              <point x="989.625" y="77.0" />
+              <point x="31.875" y="23.5" />
+            </edge>
+            <edge source="\Model_Items" target="\Model">
+              <point x="0.0" y="-23.5" />
+              <point x="1298.5" y="87.0" />
+              <point x="976.875" y="87.0" />
+              <point x="19.125" y="23.5" />
+            </edge>
+            <edge source="\Model_Items_Keywords" target="\Model">
+              <point x="0.0" y="-23.5" />
+              <point x="560.5" y="87.0" />
+              <point x="938.625" y="87.0" />
+              <point x="-19.125" y="23.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8552703440742764" x="271.0" y="-113.0" />
+          <SelectedNodes>
+            <node>\Model_Items</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/controller_video.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/controller_contacts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/controller_photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="193" column="46" selection-start-line="193" selection-start-column="46" selection-end-line="193" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/controller_vectors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/model_items.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/items.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="105" column="4" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/items.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5069">
+          <caret line="336" column="16" selection-start-line="336" selection-start-column="16" selection-end-line="336" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="331" column="12" selection-start-line="331" selection-start-column="12" selection-end-line="331" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2275">
+          <caret line="77" column="28" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
+          <folding>
+            <marker date="1494994683004" expanded="true" signature="624:638" ph="SELECT * FRO... ${$this-&gt;table}" />
+            <marker date="1494994683004" expanded="true" signature="1527:1565" ph="SELECT * fro... ${$this-&gt;table}" />
+            <marker date="1494994683004" expanded="true" signature="2367:2433" ph="INSERT INTO ${$this-&gt;table}... " />
+            <marker date="1494994683004" expanded="true" signature="4720:4745" ph="DELETE FROM " />
+            <marker date="1494994683004" expanded="true" signature="5344:5382" ph="DELETE FROM " />
+            <marker date="1494994683004" expanded="true" signature="6741:6789" ph="UPDATE ${$th... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/controller_account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="184" column="0" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
